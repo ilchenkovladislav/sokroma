@@ -1,0 +1,28 @@
+{
+    "places": [
+        {
+            "id": 0,
+            "name": "",
+            "category": [],
+            "description": "",
+            "mainImg": "",
+            "images": ["", ""],
+            "mode": "",
+            "adultPrice": 0,
+            "studentPrice": 0,
+            "childrenPrice": 0,
+            "link": "",
+            "address": ""
+        }
+    ],
+    "category": [
+        {
+            "id": 0,
+            "categoryName": "рестораны"
+        },
+        {
+            "id": 1,
+            "categoryName": "Достопримечательности"
+        }
+    ]
+}
